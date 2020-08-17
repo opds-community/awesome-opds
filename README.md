@@ -32,8 +32,8 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 
 ## Libraries
 
-* [Readium Mobile Kotlin](https://github.com/readium/r2-opds-kotlin) - Open source library for OPDS 1.x and 2.0 available under a BSD-3 license.
-* [Readium Mobile Swift](https://github.com/readium/r2-opds-swift) - Open source library for OPDS 1.x and 2.0 available under a BSD-3 license.
+* [Readium Mobile Kotlin](https://github.com/readium/r2-opds-kotlin) - OPDS 1.x and 2.0 parser written in Kotlin (Android). Available under a BSD-3 license.
+* [Readium Mobile Swift](https://github.com/readium/r2-opds-swift) - OPDS 1.x and 2.0 parser written in Swift (iOS). Available under a BSD-3 license.
 
 ## Servers & Catalog Generators
 

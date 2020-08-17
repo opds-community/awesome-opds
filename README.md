@@ -16,6 +16,7 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 ### iOS & iPadOS
 
 * [Aldiko](https://testflight.apple.com/join/2aHDilzl) - Supports OPDS 1.x and 2.0 for ebooks, audiobooks and comics.
+* [Chunky Comic Reader](http://chunkyreader.com/) - Support OPDS 1.x for comics, including support for streaming.
 
 ### Linux
 

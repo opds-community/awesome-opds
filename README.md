@@ -40,3 +40,5 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 
 * [Amusewiki](https://amusewiki.org/) - A library-oriented wiki with built-in OPDS support.
 * [Calibre2OPDS](https://wiki.mobileread.com/wiki/Calibre2opds) - A static OPDS catalog generator for Calibre written in Java.
+* [dir2opds](https://github.com/dubyte/dir2opds) - serves a directory of files as an OPDS catalog, no database or generation step required. Written in Go.
+* [webook_server](https://github.com/clach04/webook_server/) - serves a directory of files as an OPDS catalog, no database or generation step required. Supports pathname and filename search.  Written in Python.

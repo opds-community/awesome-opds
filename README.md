@@ -40,3 +40,4 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 
 * [Amusewiki](https://amusewiki.org/) - A library-oriented wiki with built-in OPDS support.
 * [Calibre2OPDS](https://wiki.mobileread.com/wiki/Calibre2opds) - A static OPDS catalog generator for Calibre written in Java.
+* [news2reader](https://github.com/BHSPitMonkey/news2reader) - A ODPS server that browses articles from Hacker News and Pocket and converts them to readable EPUBs on-the-fly.

@@ -22,6 +22,7 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 ### Linux
 
 * [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) - Supports OPDS 1.x and 2.0 for ebooks and audiobooks.
+* [Foliate](https://johnfactotum.github.io/foliate/)
 
 ### macOS
 

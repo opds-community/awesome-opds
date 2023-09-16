@@ -40,3 +40,4 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 
 * [Amusewiki](https://amusewiki.org/) - A library-oriented wiki with built-in OPDS support.
 * [Calibre2OPDS](https://wiki.mobileread.com/wiki/Calibre2opds) - A static OPDS catalog generator for Calibre written in Java.
+* [DOKK Library](https://dokk.org/library/opds.xml) - A static OPDS catalog of free/libre books and other materials.

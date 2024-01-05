@@ -12,6 +12,7 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 ### Android & Chrome OS
 
 * [Aldiko](https://play.google.com/apps/testing/com.aldiko.android) - Supports OPDS 1.x and 2.0 for ebooks, audiobooks and comics.
+* [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader&hl=en&gl=US) - Supports OPDS 1.x and 2.0 for ebooks, audiobooks and comics.
 
 ### iOS & iPadOS
 
@@ -22,6 +23,7 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 ### Linux
 
 * [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) - Supports OPDS 1.x and 2.0 for ebooks and audiobooks.
+* [Foliate](https://johnfactotum.github.io/foliate/) - Supports OPDS 2.0 for ebooks.
 
 ### macOS
 

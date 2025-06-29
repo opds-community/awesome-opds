@@ -13,6 +13,8 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 
 * [E-kirjasto](https://play.google.com/store/apps/details?id=fi.kansalliskirjasto.ekirjasto)
 * [FBReader](https://play.google.com/store/apps/details?id=org.geometerplus.zlibrary.ui.android)
+* [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader)
+* [PocketBook Reader](https://play.google.com/store/apps/details?id=com.obreey.reader)
 * [The Palace Project](https://play.google.com/store/apps/details?id=org.thepalaceproject.palace)
 
 ### eReaders
@@ -25,6 +27,8 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 * [FBReader](https://apps.apple.com/us/app/fbreader-epub-and-fb2-reader/id1067172178)
 * [The Palace Project](https://apps.apple.com/us/app/the-palace-project/id1574359693e)
 * [Panels - Comic Reader](https://apps.apple.com/us/app/panels-comic-reader/id1236567663)
+* [PocketBook Reader](https://apps.apple.com/us/app/pocketbook-reader/id805488884)
+* [Yomu Ebook Reader](https://apps.apple.com/us/app/yomu-ebook-reader/id562211012)
 
 ### Linux
 

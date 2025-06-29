@@ -11,32 +11,39 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 
 ### Android & Chrome OS
 
-* [Aldiko](https://play.google.com/apps/testing/com.aldiko.android) - Supports OPDS 1.x and 2.0 for ebooks, audiobooks and comics.
+* [E-kirjasto](https://play.google.com/store/apps/details?id=fi.kansalliskirjasto.ekirjasto)
+* [FBReader](https://play.google.com/store/apps/details?id=org.geometerplus.zlibrary.ui.android)
+* [The Palace Project](https://play.google.com/store/apps/details?id=org.thepalaceproject.palace)
 
 ### iOS & iPadOS
 
-* [Aldiko](https://testflight.apple.com/join/2aHDilzl) - Supports OPDS 1.x and 2.0 for ebooks, audiobooks and comics.
-* [Chunky Comic Reader](http://chunkyreader.com/) - Supports OPDS 1.x for comics, including support for streaming.
-* [Panels](https://panels.app/) - Supports OPDS 1.x for comics, including support for streaming.
+* [E-kirjasto](https://apps.apple.com/us/app/e-kirjasto/id6471490203)
+* [FBReader](https://apps.apple.com/us/app/fbreader-epub-and-fb2-reader/id1067172178)
+* [The Palace Project](https://apps.apple.com/us/app/the-palace-project/id1574359693e)
+* [Panels - Comic Reader](https://apps.apple.com/us/app/panels-comic-reader/id1236567663)
 
 ### Linux
 
-* [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) - Supports OPDS 1.x and 2.0 for ebooks and audiobooks.
+* [Thorium Reader](https://thorium.edrlab.org/en/)
 
 ### macOS
 
-* [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) - Supports OPDS 1.x and 2.0 for ebooks and audiobooks.
+* [FBReader](https://apps.apple.com/us/app/fbreader-epub-and-fb2-reader/id1067172178)
+* [Panels - Comic Reader](https://apps.apple.com/us/app/panels-comic-reader/id1236567663)
+* [Thorium Reader](https://thorium.edrlab.org/en/)
 
 ### Windows
 
-* [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) - Supports OPDS 1.x and 2.0 for ebooks and audiobooks.
+* [Thorium Reader](https://thorium.edrlab.org/en/)
 
 ## Libraries
 
-* [Readium Mobile Kotlin](https://github.com/readium/r2-opds-kotlin) - OPDS 1.x and 2.0 parser written in Kotlin (Android). Available under a BSD-3 license.
-* [Readium Mobile Swift](https://github.com/readium/r2-opds-swift) - OPDS 1.x and 2.0 parser written in Swift (iOS). Available under a BSD-3 license.
+* [Readium Mobile Kotlin](https://github.com/readium/kotlin-toolkit) - OPDS 1.x and 2.0 parser written in Kotlin (Android)
+* [Readium Mobile Swift](https://github.com/readium/swift-toolkit) - OPDS 1.x and 2.0 parser written in Swift (iOS)
 
 ## Servers & Catalog Generators
 
 * [Amusewiki](https://amusewiki.org/) - A library-oriented wiki with built-in OPDS support.
 * [Calibre2OPDS](https://wiki.mobileread.com/wiki/Calibre2opds) - A static OPDS catalog generator for Calibre written in Java.
+* [Kavita](https://github.com/Kareadita/Kavita) - A cross-platform reading server
+* [Komga](https://komga.org/) - A media server for your comics, mangas, BDs, magazines and eBooks

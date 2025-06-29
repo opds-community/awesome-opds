@@ -40,14 +40,21 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 
 * [Thorium Reader](https://thorium.edrlab.org/en/)
 
-## Libraries
-
-* [Readium Mobile Kotlin](https://github.com/readium/kotlin-toolkit) - OPDS 1.x and 2.0 parser written in Kotlin (Android)
-* [Readium Mobile Swift](https://github.com/readium/swift-toolkit) - OPDS 1.x and 2.0 parser written in Swift (iOS)
-
 ## Servers & Catalog Generators
 
 * [Amusewiki](https://amusewiki.org/) - A library-oriented wiki with built-in OPDS support.
+* [Calibre](https://calibre-ebook.com/) - An eBook management software.
 * [Calibre2OPDS](https://wiki.mobileread.com/wiki/Calibre2opds) - A static OPDS catalog generator for Calibre written in Java.
-* [Kavita](https://github.com/Kareadita/Kavita) - A cross-platform reading server
-* [Komga](https://komga.org/) - A media server for your comics, mangas, BDs, magazines and eBooks
+* [Kavita](https://github.com/Kareadita/Kavita) - A cross-platform reading server.
+* [Komga](https://komga.org/) - A media server for your comics, mangas, BDs, magazines and eBooks.
+* [Stump](https://github.com/stumpapp/stump) - A comics, manga and digital book server with OPDS support.
+
+## Parsers & Toolkits
+
+### Kotlin
+
+* [Readium Mobile (Kotlin)](https://github.com/readium/kotlin-toolkit)
+
+### Swift
+
+* [Readium Mobile (Swift)](https://github.com/readium/swift-toolkit)

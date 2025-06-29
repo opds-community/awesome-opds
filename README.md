@@ -15,6 +15,10 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 * [FBReader](https://play.google.com/store/apps/details?id=org.geometerplus.zlibrary.ui.android)
 * [The Palace Project](https://play.google.com/store/apps/details?id=org.thepalaceproject.palace)
 
+### eReaders
+
+* [KOReader](https://koreader.rocks/)
+
 ### iOS & iPadOS
 
 * [E-kirjasto](https://apps.apple.com/us/app/e-kirjasto/id6471490203)

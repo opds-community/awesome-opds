@@ -62,3 +62,7 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 ### Swift
 
 * [Readium Mobile (Swift)](https://github.com/readium/swift-toolkit)
+
+### Javascript / TypeScript
+
+* [opds-web-client](https://github.com/NYPL-Simplified/opds-web-client/)

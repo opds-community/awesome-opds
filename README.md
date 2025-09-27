@@ -16,6 +16,7 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 * [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader)
 * [PocketBook Reader](https://play.google.com/store/apps/details?id=com.obreey.reader)
 * [The Palace Project](https://play.google.com/store/apps/details?id=org.thepalaceproject.palace)
+* [Sakura Reader](https://play.google.com/store/apps/details?id=com.sakurareader.app)
 
 ### eReaders
 

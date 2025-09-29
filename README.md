@@ -47,6 +47,7 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 ## Servers & Catalog Generators
 
 * [Amusewiki](https://amusewiki.org/) - A library-oriented wiki with built-in OPDS support.
+* [BookLore](https://github.com/booklore-app/booklore) - A self hosted ebook and comic management software, with great features and very active development.
 * [Calibre](https://calibre-ebook.com/) - An eBook management software.
 * [Calibre2OPDS](https://wiki.mobileread.com/wiki/Calibre2opds) - A static OPDS catalog generator for Calibre written in Java.
 * [Kavita](https://github.com/Kareadita/Kavita) - A cross-platform reading server.

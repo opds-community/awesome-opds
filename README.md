@@ -36,6 +36,7 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 
 ### macOS
 
+* [BookShelves](https://apps.apple.com/app/bookshelves-ebook-reader/id6756848973) - Ebook reader with built-in OPDS server for local network sharing.
 * [FBReader](https://apps.apple.com/us/app/fbreader-epub-and-fb2-reader/id1067172178)
 * [Panels - Comic Reader](https://apps.apple.com/us/app/panels-comic-reader/id1236567663)
 * [Thorium Reader](https://thorium.edrlab.org/en/)

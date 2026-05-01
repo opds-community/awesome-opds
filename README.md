@@ -32,16 +32,19 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 
 ### Linux
 
+* [ComicCatcher](https://github.com/comiccatcher/comiccatcher) - Desktop OPDS browser and comic streamer/reader 
 * [Thorium Reader](https://thorium.edrlab.org/en/)
 
 ### macOS
 
+* [ComicCatcher](https://github.com/comiccatcher/comiccatcher) - Desktop OPDS browser and comic streamer/reader 
 * [FBReader](https://apps.apple.com/us/app/fbreader-epub-and-fb2-reader/id1067172178)
 * [Panels - Comic Reader](https://apps.apple.com/us/app/panels-comic-reader/id1236567663)
 * [Thorium Reader](https://thorium.edrlab.org/en/)
 
 ### Windows
 
+* [ComicCatcher](https://github.com/comiccatcher/comiccatcher) - Desktop OPDS browser and comic streamer/reader 
 * [Thorium Reader](https://thorium.edrlab.org/en/)
 
 ## Servers & Catalog Generators

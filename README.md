@@ -25,6 +25,7 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 
 * [E-kirjasto](https://apps.apple.com/us/app/e-kirjasto/id6471490203)
 * [FBReader](https://apps.apple.com/us/app/fbreader-epub-and-fb2-reader/id1067172178)
+* [justRead](https://apps.apple.com/us/app/epub-reader-justread-app/id6757948605)
 * [The Palace Project](https://apps.apple.com/us/app/the-palace-project/id1574359693e)
 * [Panels - Comic Reader](https://apps.apple.com/us/app/panels-comic-reader/id1236567663)
 * [PocketBook Reader](https://apps.apple.com/us/app/pocketbook-reader/id805488884)

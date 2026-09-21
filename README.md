@@ -52,6 +52,7 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 * [Kavita](https://github.com/Kareadita/Kavita) - A cross-platform reading server.
 * [Komga](https://komga.org/) - A media server for your comics, mangas, BDs, magazines and eBooks.
 * [Stump](https://github.com/stumpapp/stump) - A comics, manga and digital book server with OPDS support.
+* [tsundoku](https://github.com/pid1/tsundoku) - A self-hosted OPDS 1.2 and 2.0 catalog with a web upload UI and KOReader progress sync, running as a single Cloudflare Worker.
 
 ## Parsers & Toolkits
 

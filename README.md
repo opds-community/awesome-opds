@@ -11,6 +11,7 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 
 ### Android & Chrome OS
 
+* [CaliMob](https://play.google.com/store/apps/details?id=com.dm_devs.calimob)
 * [E-kirjasto](https://play.google.com/store/apps/details?id=fi.kansalliskirjasto.ekirjasto)
 * [FBReader](https://play.google.com/store/apps/details?id=org.geometerplus.zlibrary.ui.android)
 * [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader)
@@ -23,6 +24,7 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 
 ### iOS & iPadOS
 
+* [CaliMob](https://apps.apple.com/app/id6785799771)
 * [E-kirjasto](https://apps.apple.com/us/app/e-kirjasto/id6471490203)
 * [FBReader](https://apps.apple.com/us/app/fbreader-epub-and-fb2-reader/id1067172178)
 * [The Palace Project](https://apps.apple.com/us/app/the-palace-project/id1574359693e)

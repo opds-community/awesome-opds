@@ -51,6 +51,7 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 * [Calibre2OPDS](https://wiki.mobileread.com/wiki/Calibre2opds) - A static OPDS catalog generator for Calibre written in Java.
 * [Kavita](https://github.com/Kareadita/Kavita) - A cross-platform reading server.
 * [Komga](https://komga.org/) - A media server for your comics, mangas, BDs, magazines and eBooks.
+* [Nostos](https://github.com/Christian-Gennari/Nostos) - An open-source personal library and reader with OPDS catalog support for remote e-readers.
 * [Stump](https://github.com/stumpapp/stump) - A comics, manga and digital book server with OPDS support.
 
 ## Parsers & Toolkits

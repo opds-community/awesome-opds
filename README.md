@@ -28,6 +28,7 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 * [The Palace Project](https://apps.apple.com/us/app/the-palace-project/id1574359693e)
 * [Panels - Comic Reader](https://apps.apple.com/us/app/panels-comic-reader/id1236567663)
 * [PocketBook Reader](https://apps.apple.com/us/app/pocketbook-reader/id805488884)
+* [VocaRead](https://apps.apple.com/us/app/vocaread/id6757822401)
 * [Yomu Ebook Reader](https://apps.apple.com/us/app/yomu-ebook-reader/id562211012)
 
 ### Linux

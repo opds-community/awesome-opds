@@ -15,6 +15,7 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 * [FBReader](https://play.google.com/store/apps/details?id=org.geometerplus.zlibrary.ui.android)
 * [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader)
 * [PocketBook Reader](https://play.google.com/store/apps/details?id=com.obreey.reader)
+* [Quire](https://f-droid.org/packages/io.theficos.quire/)
 * [The Palace Project](https://play.google.com/store/apps/details?id=org.thepalaceproject.palace)
 
 ### eReaders

@@ -11,6 +11,7 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 
 ### Android & Chrome OS
 
+* [Easemic](https://easemic.com) - Open-source (Apache-2.0) Android comic and manga reader for OPDS servers such as Komga and Kavita; keeps collected titles in your own S3, Cloudflare R2, WebDAV or Google Drive storage. ([Source Code](https://github.com/dirtyfancy/easemic))
 * [E-kirjasto](https://play.google.com/store/apps/details?id=fi.kansalliskirjasto.ekirjasto)
 * [FBReader](https://play.google.com/store/apps/details?id=org.geometerplus.zlibrary.ui.android)
 * [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader)

@@ -20,6 +20,7 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 ### eReaders
 
 * [KOReader](https://koreader.rocks/)
+* [Supernote OPDS Sync](https://github.com/FazalAAli/supernote-opds-sync)
 
 ### iOS & iPadOS
 
